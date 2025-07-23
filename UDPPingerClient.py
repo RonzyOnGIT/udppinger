@@ -37,7 +37,6 @@ while count < 10:
         print("Ping #" + str(count) + " " + "packet lost\n")
 
 clientSocket.close()
-    # as soon as send it start counting
 
 
 
